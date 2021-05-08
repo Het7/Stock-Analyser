@@ -14,11 +14,11 @@ from fbprophet import Prophet
 from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
 
-
-consumerKey = "OLulNWGyTIpbHyL1tU1HyxMJ7"
-consumerSecret = "rFI74JDu9PqQT4emDsM6pE6NsKgc8kSMCZA8J2hkapwVEgWCeW"
-accessToken = "1305386993124290560-9GdZT5w0pZxOCYxCd8Izokg8WLfdmT"
-accessTokenSecret = "vdXTRcB9gOocQEK2KQ6uhiJsODJzozOHwthmJimHGhw9Z"
+# Omitted for privacy reasons 
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessTokenSecret = ""
 
 
 
